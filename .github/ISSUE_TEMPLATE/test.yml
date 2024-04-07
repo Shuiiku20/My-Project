@@ -2,15 +2,14 @@ name: device takeout
 description: Keep track of devices
 title: "[BUG] <title>"
 body:
-  - type: markdown
+  - type: dropdown
+    id: version
     attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
-  - type: input
-    id: contact
-    attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
+      label: Version
+      description: What version of our software are you running?
+      options:
+        - 1.0.2 (Default)
+        - 1.0.3 (Edge)
+      default: 0
     validations:
       required: true
