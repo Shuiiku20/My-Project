@@ -3,7 +3,6 @@ description: Keep track of devices
 title: "test"
 assignees: 
   - octocat
-  - Shuiiku20
 body:
   - type: textarea
     id: repro
