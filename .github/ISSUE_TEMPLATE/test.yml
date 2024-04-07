@@ -4,7 +4,10 @@ title: "test"
 body:
 - type: markdown
   attributes:
-    value: "## Thank you for contributing to our project!"
+    value: "Bugs are the worst!"
+- type: textarea
+  attributes:
+    label: "What's wrong?"
 - type: markdown
   attributes:
     value: |
