@@ -1,8 +1,8 @@
 name: device takeout 
 description: Keep track of devices
-title: "test"
+title: "機器・備品持ち出し管理"
 assignees: 
-  - octocat
+  - Shuiiku20
 body:
   - type: textarea
     id: repro
