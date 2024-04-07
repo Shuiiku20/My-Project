@@ -22,4 +22,25 @@ body:
       description: "How often do you or others encounter this bug?"
       placeholder: "Example: Whenever I visit the personal account page (1-2 times a week)"
     validations:
+      required: true 
+  - type: dropdown
+    id: download
+    attributes:
+      label: How did you download the software?
+      options:
+        - Built from source
+        - Homebrew
+        - MacPorts
+        - apt-get
+      default: 0
+    validations:
       required: true
+  - type: checkboxes
+    id: operating-systems
+    attributes:
+      label: Which operating systems have you used?
+      description: You may select more than one.
+      options:
+        - label: macOS
+        - label: Windows
+        - label: Linux
