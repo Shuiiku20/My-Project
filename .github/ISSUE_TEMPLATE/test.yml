@@ -2,13 +2,16 @@ name: device takeout
 description: Keep track of devices
 title: "test"
 body:
-- type: markdown
-  attributes:
-    value: "Bugs are the worst!"
-- type: textarea
-  attributes:
-    label: "What's wrong?"
-- type: markdown
-  attributes:
-    value: |
-      Thanks for taking the time to fill out this bug report.
+  - type: textarea
+    id: repro
+    attributes:
+      label: Reproduction steps
+      description: "How do you trigger this bug? Please walk us through it step by step."
+      value: |
+        1.
+        2.
+        3.
+        ...
+      render: bash
+    validations:
+      required: true
