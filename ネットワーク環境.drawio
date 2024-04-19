@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T13:57:29.543Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="bZILIOo86-4jxCWN-3Ob" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-19T14:01:12.620Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="UGh8M8th3BjLhXe6oa9v" version="24.2.5" type="github">
   <diagram name="Page-1" id="bfe91b75-5d2c-26a0-9c1d-138518896778">
     <mxGraphModel dx="3118" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -322,9 +322,9 @@
             <mxPoint x="-660" y="1110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3SPEe0byowuw1gI_Q946-114" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 24px;&quot;&gt;開発業務（SSH、Remote desktop）&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3SPEe0byowuw1gI_Q946-113" vertex="1" connectable="0">
+        <mxCell id="3SPEe0byowuw1gI_Q946-114" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 24px;&quot;&gt;開発業務（SSH、Remote desktop、Programing）&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3SPEe0byowuw1gI_Q946-113" vertex="1" connectable="0">
           <mxGeometry x="0.1626" y="7" relative="1" as="geometry">
-            <mxPoint x="293" y="7" as="offset" />
+            <mxPoint x="371" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="R_TfwoHonHVuo36BQs9o-2" style="edgeStyle=none;html=1;labelBackgroundColor=none;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.825;entryY=0.935;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7c3789c024ecab99-6" target="7c3789c024ecab99-9" edge="1">
